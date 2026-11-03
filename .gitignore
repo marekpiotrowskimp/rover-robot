@@ -1,0 +1,29 @@
+# system
+.DS_Store
+*.zip
+*.log
+
+# sekrety
+.env
+.env.*
+!.env.example
+secrets.h
+secrets.py
+config.py
+!config.example.py
+*.pem
+*.key
+*.p12
+*.mobileprovision
+
+# PlatformIO / Arduino
+.pio/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
