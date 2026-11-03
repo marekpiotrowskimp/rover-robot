@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+faster-whisper
+pyobjc-framework-Cocoa
+pyobjc-framework-IOBluetooth
